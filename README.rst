@@ -40,5 +40,8 @@ License
 
 The project is licensed under the BSD license.
 
-Licensehadskjsagdhjh
+Licenseeseseses
 -------
+
+The project is licensed under the BSD license.
+
