@@ -19,5 +19,10 @@ This is ITR Services.
 Insurance
 --------
 
-This is Insurance Services.
+Life/Health
+Life insurance is a contract between an insurance policy holder and an insurer or assurer, where the insurer promises to pay a designated beneficiary a sum of money in exchange for a premium, upon the death of an insured person.
+Health Insurance is a type of insurance that offers coverage to the policy holder for medical expenses in case of a health emergency. A health insurance plan chosen by the insured provides coverage for different expenses including surgical expenses, day-care expenses, and critical illness etc.
+
+Vehicle
+In case you are an unfortunate victim of any road accident and do not know the insurance details of the vehicle responsible for accident towards lodging a claim with the concerned insurer, you can furnish some basic information such as details of accident, Registration no. of vehicle etc., in the web portal of Insurance Information Bureau (created by IRDA) under the head “Vehicle Insurance Status Search”and find out the insurance status.
 
